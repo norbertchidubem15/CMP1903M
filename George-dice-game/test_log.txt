@@ -1,0 +1,38 @@
+Test Results:
+----------------------
+Test Date: 4/14/2024 3:53:54AM
+
+Testing Die Roll:
+Die rolled: 6
+Die roll test passed.
+
+Testing Sevens Out Game:
+Sevens Out Game
+Rolled: 10, Total: 10
+Sevens Out Game test completed.
+
+Testing Three or More Game:
+Three or More Game
+Rolls: 1, Score: 0, Total: 0
+Rolls: 2, Score: 3, Total: 3
+Rolls: 3, Score: 3, Total: 6
+Rolls: 4, Score: 3, Total: 9
+Rolls: 5, Score: 0, Total: 9
+Rolls: 6, Score: 0, Total: 9
+Rolls: 7, Score: 0, Total: 9
+Rolls: 8, Score: 0, Total: 9
+Rolls: 9, Score: 3, Total: 12
+Rolls: 10, Score: 0, Total: 12
+Rolls: 11, Score: 0, Total: 12
+Rolls: 12, Score: 0, Total: 12
+Rolls: 13, Score: 3, Total: 15
+Rolls: 14, Score: 0, Total: 15
+Rolls: 15, Score: 0, Total: 15
+Rolls: 16, Score: 3, Total: 18
+Rolls: 17, Score: 0, Total: 18
+Rolls: 18, Score: 0, Total: 18
+Rolls: 19, Score: 0, Total: 18
+Rolls: 20, Score: 3, Total: 21
+Total score reached 20 in 20 rolls.
+Three or More Game test completed.
+
